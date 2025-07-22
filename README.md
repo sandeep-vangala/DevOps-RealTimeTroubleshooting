@@ -14,7 +14,7 @@ Permission Problems
 Overloaded Jenkins Master
 1. Jenkins Master Fails to Start
 Issue: Jenkins Master fails to start.
-
+```
 Resolution:
 
 Step 1: Check Jenkins logs located at /var/log/jenkins/jenkins.log.
@@ -237,6 +237,8 @@ Step 2: Ensure proper ownership and permissions for Jenkins files and directorie
 # Verify and set proper permissions
 sudo chown -R jenkins:jenkins /var/lib/jenkins
 sudo chmod -R 755 /var/lib/jenkins
+
+```
 
 # Verify and set proper permissions
 sudo chown -R jenkins:jenkins /var/lib/jenkins
