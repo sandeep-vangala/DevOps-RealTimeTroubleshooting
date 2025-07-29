@@ -1,5 +1,3 @@
-Here's the information you provided, formatted for clarity and readability, as if it were part of an interview preparation guide for Amazon EKS:
-
 -----
 
 # Amazon EKS Interview Preparation Guide
